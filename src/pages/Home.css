@@ -6,10 +6,5 @@
 }
 
 .video-container {
-  width: fit-content;
-  height: fit-content;
-  border: solid 1px var(--stroke);
-  padding: 3px 10px;
   margin: 20px;
-  background-color: var(--highlight);
 }

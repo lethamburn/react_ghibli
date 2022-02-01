@@ -12,6 +12,7 @@ const Home = () => {
         url="https://vimeo.com/270065619"
         playing={true}
         muted={true}
+        width="70%"
       />
     </div>
   );
